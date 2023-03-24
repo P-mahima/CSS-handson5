@@ -124,7 +124,7 @@ body{
     
     z-index: 2;
     position: absolute;
-    top: 452px;
+    top: 455px;
     left: 385px;
     animation: wheeltwo 2s infinite linear;
 }
@@ -140,7 +140,7 @@ body{
     z-index: 2;
     position: absolute;
     top: 452px;
-    left: 622px;
+    left: 630px;
     animation: wheelone 2s infinite linear;
 }
 @keyframes wheelone
