@@ -101,6 +101,22 @@ body{
     top: 370px;
     left: 350px;
     z-index: 10;
+    animation: car 3s infinite;
+}
+@keyframes car
+{
+    0%
+    {
+        transform: translateY(2.5px);
+    }
+    50%
+    {
+        transform: translateY(-2.5px);
+    }
+    100%
+    {
+        transform: translateY(2.5px);
+    }
 }
 
 .sun 
