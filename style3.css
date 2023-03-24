@@ -107,15 +107,15 @@ body{
 {
     0%
     {
-        transform: translateY(2.5px);
+        transform: translateY(1.5px);
     }
     50%
     {
-        transform: translateY(-2.5px);
+        transform: translateY(-1.5px);
     }
     100%
     {
-        transform: translateY(2.5px);
+        transform: translateY(1.5px);
     }
 }
 
